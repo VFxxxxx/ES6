@@ -5,6 +5,10 @@ https://kangax.github.io/compat-table/es6/
 https://babeljs.io/
 
 
+
+cd project
+
+
 npm init -y  
 
 
