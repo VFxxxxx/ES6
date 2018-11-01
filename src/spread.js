@@ -1,6 +1,9 @@
 let array1 = ["c++","Java","c"];
 let array2 = ["Alex","Martin","Melman"];
 
+let arrayConcat = [array1,"text",array2];
+console.log(arrayConcat);
+
 let arrayConcat = [...array1,"text",...array2];
 
 console.log(arrayConcat);
